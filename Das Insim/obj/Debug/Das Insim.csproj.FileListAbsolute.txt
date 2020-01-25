@@ -47,3 +47,16 @@ D:\Sync\Das Insim v2\Das Insim\obj\Debug\Das_Insim.Properties.Resources.resource
 D:\Sync\Das Insim v2\Das Insim\obj\Debug\Das Insim.csproj.GenerateResource.Cache
 D:\Sync\Das Insim v2\Das Insim\obj\Debug\Das Insim.exe
 D:\Sync\Das Insim v2\Das Insim\obj\Debug\Das Insim.pdb
+C:\projects\github\chty insim\chty-insim\Das Insim\bin\Debug\Das Insim.exe.config
+C:\projects\github\chty insim\chty-insim\Das Insim\bin\Debug\Das Insim.exe
+C:\projects\github\chty insim\chty-insim\Das Insim\bin\Debug\Das Insim.pdb
+C:\projects\github\chty insim\chty-insim\Das Insim\bin\Debug\InSimDotNet.dll
+C:\projects\github\chty insim\chty-insim\Das Insim\bin\Debug\InSimDotNet.pdb
+C:\projects\github\chty insim\chty-insim\Das Insim\bin\Debug\InSimDotNet.xml
+C:\projects\github\chty insim\chty-insim\Das Insim\obj\Debug\Das Insim.csprojAssemblyReference.cache
+C:\projects\github\chty insim\chty-insim\Das Insim\obj\Debug\Das_Insim.Form1.resources
+C:\projects\github\chty insim\chty-insim\Das Insim\obj\Debug\Das_Insim.Properties.Resources.resources
+C:\projects\github\chty insim\chty-insim\Das Insim\obj\Debug\Das Insim.csproj.GenerateResource.cache
+C:\projects\github\chty insim\chty-insim\Das Insim\obj\Debug\Das Insim.csproj.CopyComplete
+C:\projects\github\chty insim\chty-insim\Das Insim\obj\Debug\Das Insim.exe
+C:\projects\github\chty insim\chty-insim\Das Insim\obj\Debug\Das Insim.pdb

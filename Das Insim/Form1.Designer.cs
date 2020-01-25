@@ -52,15 +52,15 @@
             this.textBox1.Location = new System.Drawing.Point(47, 19);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(76, 20);
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "30000";
             // 
             // connect
             // 
-            this.connect.Location = new System.Drawing.Point(196, 16);
+            this.connect.Location = new System.Drawing.Point(129, 19);
             this.connect.Name = "connect";
-            this.connect.Size = new System.Drawing.Size(75, 23);
+            this.connect.Size = new System.Drawing.Size(75, 20);
             this.connect.TabIndex = 2;
             this.connect.Text = "Connect";
             this.connect.UseVisualStyleBackColor = true;
